@@ -1,4 +1,5 @@
 # Collinear
+Assignment in progress
 
 Finding collinear points on a grid using sorting algorithms. This assignment was created for Coursera's "Algorithms I" hosted by Princeton University. The official assignment specification can be found here:http://coursera.cs.princeton.edu/algs4/assignments/collinear.html
 
